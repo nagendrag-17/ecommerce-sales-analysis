@@ -1,0 +1,9 @@
+# Dataset
+
+This project uses the Olist Brazilian E-Commerce Public Dataset.
+
+The original dataset contains multiple CSV files, including orders, customers, products, payments and reviews.
+
+Due to the dataset's large size, the original CSV files are not included in this repository.
+
+**Dataset source:** [Olist Brazilian E-Commerce Dataset – Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
