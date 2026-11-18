@@ -16,7 +16,7 @@ This project analyzes e-commerce sales and customer behaviour using the Olist da
 5. Created an interactive Excel dashboard.
 
 ## Dashboard
-[View Interactive Excel Dashboard](ADD_YOUR_ONEDRIVE_LINK_HERE)
+[View Interactive Excel Dashboard](https://1drv.ms/x/c/f94410b363fbe01e/IQD3XWL1qGiZSJ-B0PMk8Ws6AYzSy1FS1tsYfBN6qZelulM?e=PVqzdO)
 
 ## Key Analysis Areas
 - Revenue analysis
