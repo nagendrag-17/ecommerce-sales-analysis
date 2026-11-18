@@ -18,8 +18,6 @@ This project analyzes e-commerce sales and customer behaviour using the Olist da
 ## Dashboard
 [View Interactive Excel Dashboard](ADD_YOUR_ONEDRIVE_LINK_HERE)
 
-![E-Commerce Dashboard](Screenshots/Dashboard.png)
-
 ## Key Analysis Areas
 - Revenue analysis
 - Product category performance
